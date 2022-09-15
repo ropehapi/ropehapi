@@ -1,4 +1,5 @@
-## Olá, eu sou o Yoshimura, seja bem vindo ao meu perfil !
+## Hi, i'm Yoshimura, welcome to my profile!
+
 <div>
  <a href="http://www.github.com/ropehapi">
   <img src="https://github-readme-stats.vercel.app/api?username=ropehapi&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="ropehapi's GitHub stats" />
