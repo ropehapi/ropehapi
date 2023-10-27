@@ -1,5 +1,5 @@
 <div align="center">
- <h1>Olá, eu sou o Yoshimura, seja bem vindo.</h1>
+ <h1>Olá, eu sou o Yoshimura, seja muito bem vindo.</h1>
 </div>
 
 <div align="center">
